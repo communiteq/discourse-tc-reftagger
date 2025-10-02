@@ -1,9 +1,10 @@
 {
   "name": "Reftagger",
-  "about_url": "https://github.com/discoursehosting/discourse-tc-reftagger",
-  "authors": "richard@discoursehosting.com",
+  "about_url": "https://github.com/communiteq/discourse-tc-reftagger",
+  "authors": "Communiteq",
   "license_url": null,
   "component": true,
+  "theme_version": "2025.10.02",
   "assets": {
   },
   "color_schemes": {
